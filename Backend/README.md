@@ -1,6 +1,6 @@
 # QuizMaster Pro - AI-Powered Real-time Quiz Platform
 
-An intelligent quiz application built with the MERN stack using JavaScript, Tailwind CSS, and Redux Toolkit that allows users to create AI-generated or manual quizzes, host real-time quiz sessions, and manage subscriptions for different user capacities.
+An intelligent quiz application built with the MERN stack using JavaScript, Tailwind CSS, and Redux Toolkit that allows users to create AI-generated or manual quizzes, host real-time quiz, and manage subscriptions for different user capacities.
 
 ## 🚀 Features
 
